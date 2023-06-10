@@ -21,6 +21,7 @@
     "@capacitor/status-bar": "5.0.4",
     "@ionic/react": "^7.0.0",
     "@ionic/react-router": "^7.0.0",
+    "@oa998/test-types": "^0.0.3",
     "@types/react-router": "^5.1.20",
     "@types/react-router-dom": "^5.3.3",
     "ionicons": "^7.0.0",
