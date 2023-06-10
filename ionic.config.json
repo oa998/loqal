@@ -1,0 +1,7 @@
+{
+  "name": "loqal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
